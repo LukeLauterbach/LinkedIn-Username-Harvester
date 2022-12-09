@@ -20,7 +20,6 @@
     </li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#options">Options</a></li>
-    <li><a href="#list-of-dorks">List of Dorks</a></li>
   </ol>
 </details>
 
