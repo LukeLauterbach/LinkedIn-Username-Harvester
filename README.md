@@ -33,7 +33,7 @@ The goal of this script was to replace [CrossLinked](https://github.com/m8sec/Cr
 
 While this script technically works, there is no reason to use it. CrossLinked should be used instead. This is only being uploaded as a code example or as a backup (since CrossLinked does not use Google's API, it could break if Google decides to crack down even more on search result scraping).
 
-![Script Screenshot](https://github.com/LukeLauterbach/Google-Dorking-Automation/blob/main/Images/Example.png)
+![Script Screenshot](https://github.com/LukeLauterbach/LinkedIn-Username-Harvester/blob/main/Images/ExampleImage.jpg)
 
 ### Built With
 
